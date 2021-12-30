@@ -1,0 +1,40 @@
+{
+  "name": "Requisição de Materiais",
+  "short_name": "APP Requisição",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "start_url": "login_novo.php",
+  "prefer_related_applications": true,
+  "icons": [
+    {
+      "src": "./img/rioclaro192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+            "src": "./img/rioclaro256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/rioclaro384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+    {
+      "src": "./img/rioclaro512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+   "splash_pages": null
+}
+
+
+
+
+ 
